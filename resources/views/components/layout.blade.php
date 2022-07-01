@@ -34,7 +34,7 @@
             /></a>
             <ul class="flex space-x-6 mr-6 text-lg">
                 <li>
-                    <a href="/listings/todolist" class="hover:text-laravel"
+                    <a href="/listings/todo" class="hover:text-laravel"
                         ><i class="fa-solid fa-user-plus"></i> To Do List</a
                     >
                 </li>
